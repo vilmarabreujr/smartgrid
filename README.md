@@ -1,2 +1,2 @@
-# jersey-rest
-Jersey Rest Framework Template 
+# MIAM
+Multi-Factor Identity and Access Management for Smart Grid
